@@ -1,0 +1,22 @@
+<?php
+ return array (
+'required_firstname' => 'First name required',
+'required_email' => 'Email required',
+'email_email' => 'Email must be a valid email',
+'required_phonefull' => 'Full phone number required',
+'required_message' => 'Message field required',
+'email_exist' => 'Account with this email ID already exists.',
+'required_confirm_email' => 'Please enter confirm Email Address.',
+'required_confirm_equal' => 'Please enter the same email address again.',
+'required_password' => 'Please enter your Password.',
+'required_confirm_password' => 'Please enter confirm Password.',
+'required_confirm_password_equal' => 'Please enter the same password again.',
+'required_enter_phone' => 'Please enter your Phone.',
+'minlength_password'=> 'Please enter atleast 8 characters',
+'maxlength_password' => 'Only 30 characters maximum',
+'required_accept_terms' => 'You must agree with the terms and conditions.',
+'required_select_gender' => 'Please select Gender.',
+'required_dob_day' => 'Please select Day.',
+'required_dob_month' => 'Please select Month.',
+'required_dob_year' => 'Please select Year.',
+);

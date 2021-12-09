@@ -1,0 +1,75 @@
+
+.login-page .panel-form {
+    width: 100%;
+    max-width: 600px !important;
+    margin: auto;
+    padding: 2rem 1.8rem !important;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    background: #fff;
+}
+
+.bgg {background: #f7f7f7;}
+
+.separator.dashed .bar {
+    border-top: 0px dashed #fff !important;
+}
+
+.w80 {width: 80% !important;}
+
+.login-page .form-title {
+    margin-bottom: 3rem;
+    font-weight: 600;
+    color: #000 !important;
+}
+
+
+.login-page .form-title {
+    margin-bottom: 1rem !important;
+    font-weight: 600;
+    color: #596067;
+}
+
+
+
+
+
+
+
+
+
+ .page-content
+        {
+            background-color: #ffffff !important;
+        }
+
+        .widget-chart-6 .widget-name {
+    position: relative;
+    z-index: 1;
+    font-size: 19px;
+    font-weight: 400;
+    color: #646c9a;
+    text-align: center;
+    margin-top: -2rem !important;
+    margin-bottom: 5px !important;
+}
+
+.widget-chart-6 .widget-description {margin-bottom: 10px;}
+
+.widget-chart-6 .widget-chart svg {
+    width: 100%;
+    max-width: 160px;
+}
+
+.widget-media .widget-img {
+    height: 140px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.widget-media .widget-img img {
+    height: 150px !important;
+}
+
+.rp {  margin-bottom: 0px;
+    margin-top: 5px;}

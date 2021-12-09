@@ -1,0 +1,22 @@
+<?php
+ return array (
+'required_firstname' => 'الاسم الأول مطلوب',
+'required_email' => 'البريد الإلكتروني (مطلوب',
+'email_email' => 'يجب أن يكون البريد الإلكتروني بريدًا إلكترونيًا صالحًا',
+'required_phonefull' => 'رقم الهاتف الكامل مطلوب',
+'required_message' => 'حقل الرسالة مطلوب',
+'email_exist' => 'الحساب بمعرّف البريد الإلكتروني هذا موجود بالفعل.',
+'required_confirm_email' => 'يرجى إدخال تأكيد عنوان البريد الإلكتروني.',
+'required_confirm_equal' => 'يرجى إدخال نفس عنوان البريد الإلكتروني مرة أخرى.',
+'required_password' => 'من فضلك أدخل رقمك السري.',
+'required_confirm_password' => 'يرجى إدخال تأكيد كلمة المرور.',
+'required_confirm_password_equal' => 'يرجى إدخال كلمة المرور نفسها مرة أخرى.',
+'required_enter_phone' => 'يرجى إدخال هاتفك.',
+'minlength_password'=> 'يرجى إدخال 8 أحرف على الأقل',
+'maxlength_password' => 'فقط 30 حرفًا كحد أقصى',
+'required_accept_terms' => 'يجب أن توافق على الشروط والأحكام',
+'required_select_gender' => 'يرجى تحديد الجنس.',
+'required_dob_day' => 'يرجى اختيار اليوم.',
+'required_dob_month' => 'يرجى اختيار الشهر.',
+'required_dob_year' => 'يرجى تحديد السنة.',
+);
